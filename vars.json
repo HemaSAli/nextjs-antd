@@ -1,0 +1,8 @@
+{
+  "@primary-color": "green", 
+  "@link-color": "#ffffff",
+  "@success-color": "#db1616",
+  "@warning-color": "#db1616",
+  "@error-color": "#db1616",
+  "@font-size-base": "16px"
+}
